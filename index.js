@@ -7,7 +7,7 @@ const { Pool } = require('pg');
 
 const TOKEN = 'MTM1MjY5Mjg5NjEyOTc0NTAwOA.GTpz7m.woRBrXFJfvoDQphRtoxvp3Asip3Z9zlqd_lnTA'; // Replace with your bot token
 const WEBHOOK_URL = 'https://discordapp.com/api/webhooks/1352692478742102130/4g-3ivgXnETwKxj3VTR5ZmnWkQDEc0xiuAn-eFocTcoa0kRo-pC5Ek-1D22lYUHcQZG-'; // Replace with your webhook URL
-const DATABASE_URL = 'postgresql://neondb_owner:npg_cv2HCA0SfmpX@ep-dry-poetry-a5ozjr6h-pooler.us-east-2.aws.neon.tech/neondb?sslmode=require'; // Replace with your PostgreSQL URL
+const DATABASE_URL = 'postgresql://neondb_owner:npg_Abu9alskMgn4@ep-billowing-mode-a5kha8d7-pooler.us-east-2.aws.neon.tech/neondb?sslmode=require'; // Replace with your PostgreSQL URL
 const PORT = 3000;
 
 // Initialize PostgreSQL pool
